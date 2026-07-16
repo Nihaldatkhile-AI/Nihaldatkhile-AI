@@ -21,10 +21,7 @@ My goal is to become a skilled Data Analyst and AI Engineer by building real pro
 - Get a Data Analyst internship
   
 ## Skills
-- Python (Beginner)
 - Microsoft Excel
-- Git & GitHub
-- Problem Solving
 
 More skills will be added as I continue learning.
 ## Projects
